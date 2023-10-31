@@ -1,8 +1,6 @@
-# Data Engineering YouTube Analysis Project by Darshil Parmar
+# Data Engineering YouTube Analysis Project by Anuj Patel
 
 ## Overview
-
-This project aims to securely manage, streamline, and perform analysis on the structured and semi-structured YouTube videos data based on the video categories and the trending metrics.
 
 ## Project Goals
 1. Data Ingestion — Build a mechanism to ingest data from different sources
@@ -25,10 +23,6 @@ This Kaggle dataset contains statistics (CSV files) on daily popular YouTube vid
 
 https://www.kaggle.com/datasets/datasnaek/youtube-new
 
-## Architecture Diagram
-<img src="architecture.jpeg">
+SUBJECT:-
+## CPSC 531 ADVANCED DATABASE MANAGEMENT
 
-## Complete Tutorial
-I have created a detailed 3+ hour tutorial on this project, where you will execute everything from start to end
-
-https://youtu.be/yZKJFKu49Dk
